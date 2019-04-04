@@ -2,7 +2,10 @@
 
 相信时间的力量，每天学一点，一年后会有很大的进步。
 
-- 024.待续
+- 024.🐐background-attachment指定背景如何附着在容器上，注意其属性值local和fixed的使用
+
+![](/gifs/024.gif)
+---
 
 - 023.🐴background-repeat新属性值：round和space。前者表示凑个整，后者表示留点缝。
 
