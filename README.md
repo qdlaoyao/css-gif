@@ -1,9 +1,13 @@
 本项目通过动图来展示 CSS 相关知识点。
 
 相信时间的力量，每天学一点，一年后会有很大的进步。
-- 035待续
+- 036待续
 
--034【fit-content】🍎设置宽度为fit-content，可以使block像inline-block那样实现收缩宽度包裹内容的效果。
+- 035【自定义属性】🍋CSS自定义属性的简单实用。
+![](/gifs/035.gif)
+---
+
+- 034【fit-content】🍎设置宽度为fit-content，可以使block像inline-block那样实现收缩宽度包裹内容的效果。
 ![](/gifs/034.gif)
 ---
 
