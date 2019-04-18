@@ -1,7 +1,11 @@
 本项目通过动图来展示 CSS 相关知识点。
 
 相信时间的力量，每天学一点，一年后会有很大的进步。
-- 034待续
+- 035待续
+
+-034【fit-content】🍎设置宽度为fit-content，可以使block像inline-block那样实现收缩宽度包裹内容的效果。
+![](/gifs/034.gif)
+---
 
 - 033【fill-available】🍏设置宽度为fill-available，可以使inline-block像block那样填充整个空间。
 ![](/gifs/033.gif)
