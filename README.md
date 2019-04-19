@@ -4,50 +4,62 @@
 - 037待续
 
 - 036【min-content/max-content】🍍可以设置宽度为min-content和max-content，前者让内容尽可能地收缩，后者让内容尽可能地展开。
+
 ![](/gifs/036.gif)
 ---
 
 - 035【自定义属性】🍋CSS自定义属性的简单使用。
+
 ![](/gifs/035.gif)
 ---
 
 - 034【fit-content】🍎设置宽度为fit-content，可以使block像inline-block那样实现收缩宽度包裹内容的效果。
+
 ![](/gifs/034.gif)
 ---
 
 - 033【fill-available】🍏设置宽度为fill-available，可以使inline-block像block那样填充整个空间。
+
 ![](/gifs/033.gif)
 ---
 
 - 032【背景虚化】🍑使用CSS滤镜实现背景虚化。
+
 ![](/gifs/032.gif)
 ---
 
 - 031【鼠标状态】🍒按钮禁用时，不要忘了设置鼠标状态。
+
 ![](/gifs/031.gif)
 ---
 
 - 030【object-fit】🍓图片在指定尺寸后，可以设置object-fit为contain或cover保持比例。
+
 ![](/gifs/030.gif)
 ---
 
 - 029【动画暂停】🥝CSS动画其实是可以暂停的。
+
 ![](/gifs/029.gif)
 ---
 
 - 028【tab-size】🐷浏览器默认显示tab为8个空格，tab-size可以指定空格长度。
+
 ![](/gifs/028.gif)
 ---
 
 - 027【背景定位】🐶当固定背景不随元素滚动时，背景定位是相对于视口的。
+
 ![](/gifs/027.gif)
 ---
 
-- 026.【outline使用】🐔可以使用outline来描边，不占地方，它甚至可以在里面
+- 026.【outline使用】🐔可以使用outline来描边，不占地方，它甚至可以在里面。
+
 ![](/gifs/026.gif)
 ---
 
 - 025.【动画延时】🐵动画添加延迟时间可以使步调不一致
+
 ![](/gifs/025.gif)
 ---
 
